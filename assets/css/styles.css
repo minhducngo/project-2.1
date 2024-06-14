@@ -9,6 +9,7 @@ body{
 
 html{
     font-size: 62.5%;
+    scroll-behavior: smooth;
 }
 
 .main-content{
@@ -232,7 +233,7 @@ a{
     padding: 24px 25px;
     align-items: center;
     top: 149px;
-    left: 40px;
+    left: 86px;
     width: 157px;
     border-radius: 18px;
 }
